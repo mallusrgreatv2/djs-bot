@@ -1,0 +1,6 @@
+{
+    "name this file 'config.json'": "then remove this line",
+    "token": "bot token",
+    "mongooseConnectionString": "mongodb connection string (replace <password> with the user password)",
+    "prefix": "bot prefix for message commands"
+}
